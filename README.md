@@ -7,4 +7,4 @@
   - 🧮 [astrokeys](https://github.com/sailorfe/astrokeys) UTF map for QMK 
 - 🌾 learning bash, lua
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailorfe&layout=donut&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailorfe&layout=compact&theme=jolly)
