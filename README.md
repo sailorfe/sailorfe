@@ -1,8 +1,8 @@
 ## 👋
 
 - 👩🏻‍💻 pure hobbyist
-- 🧊 mostly using [codeberg](https://codeberg.org/sailorfe) these days
-  - 🥮 [moon-queen](https://codeberg.org/sailorfe/moon-queen) term theme based on [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
-  - ⚙️ [dotfiles](https://codeberg.org/sailorfe/dotfiles)
-- ⌨ here for [qmk_firmware](https://github.com/kdlrose/qmk_firmware/tree/kdlrose)
+- 💅🏻 front-end fiddler since 2007 neopets
+- projects:
+  - 🎀 [moon-queen](https://github.com/sailorfe/moon-queen) color scheme, ported for WezTerm and iSH
+  - 🪐 [astrokeys](https://github.com/sailorfe/astrokeys) UTF map for QMK 
 - 🌾 learning bash, lua
