@@ -1,6 +1,6 @@
 ## 👋
 
-- 👩🏻‍💻 pure hobbyist
+- 👩🏻‍💻 pure hobbyist, huge fan of plain text formats and Vim keybindings
 - 💅🏻 front-end fiddler since 2007 neopets
 - projects:
   - ✋🏻 [nick-cave](https://github.com/kdlrose/nick-cave) lyric search from shaynak's taylor swift template   
