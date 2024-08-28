@@ -1,3 +1,9 @@
-## 👋
+<h1 align="center" style="color: red">🔥 hi 🔮</h1>
 
-self-taught hobbyist dabbling in the front end since 2007
+<p align="center">
+  <img src="crystal.webp">
+</p>
+
+<p align="center">
+  ⚡️ <a href="https://github.com/kdlrose/nick-cave">Nick Cave Lyric Search</a> • ⌨️ <a href="https://github.com/kdlrose/astrokeys">astrokeys</a> • 🎨 <a href="https://github.com/kdlrose/moon-queen">Moon Queen</a>
+</p>
