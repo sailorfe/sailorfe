@@ -1,9 +1,9 @@
 ## 👋
 
-- 👩🏻‍💻 pure hobbyist, huge fan of plain text formats and Vim keybindings
+- 👩🏻‍💻 pure hobbyist, huge fan of plain text formats and Vim
 - 💅🏻 front-end fiddler since 2007 neopets
 - projects:
-  - ✋🏻 [nick-cave](https://github.com/kdlrose/nick-cave) lyric search from shaynak's taylor swift template   
+  - ✋🏻 [nick-cave](https://github.com/kdlrose/nick-cave)
   - 🎀 [moon-queen](https://github.com/kdlrose/moon-queen) color scheme, ported for WezTerm
   - 🧮 [astrokeys](https://github.com/kdlrose/astrokeys) UTF map for QMK
 - 🌾 learning bash, lua
