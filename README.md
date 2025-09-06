@@ -1,15 +1,10 @@
-## about
+# sailorfe
 
-hi! i'm sailorfe (sailor mars) and welcome to my github! i actually use [codeberg](https://codeberg.org/sailorfe) to host my projects and especially linux dotfiles, but you'll see me mirror stuff for discoverability. i'm admittedly a dilettente changing careers to IT, but i've coded in some form since i was eight years old thanks to neopets pet pages. through the power of open source, i'm now a fair bash scripter learning python and lua in public.
+hi, i'm sailorfe, a python developer, linux user and neovim cultist. this github mostly serves to mirror my neovim colorschemes for the sake of plugin managers, but my main projects (CLI tools for witches) are hosted on [codeberg](https://codeberg.org/sailorfe). they include:
 
-## what i'm hacking on
-
-most of what i make so far is modular astrology applications for unix in lieu of me ever learning C++ to mess with my *favorite* software, walter pullen's [astrolog](https://github.com/CruiserOne/Astrolog). this is all possible thanks to [pyswisseph](https://github.com/astrorigin/pyswisseph)!
-
-since i have a ton of web dev in my pocket, there's also a few static websites knocking about here, too.
-
-## specs
-
-- editor: [neovim](https://github.com/neovim/neovim) with lsp
-- keyboard: drop + olkb planck rev7
-- environment: debian 13 with swaywm
+- ✨ **[ephem](https://codeberg.org/sailorfe/ephem)** (python), a modern astrology CLI with the [Swiss Ephemeris](https://www.astro.com/swisseph/swephinfo_e.htm)
+- 🃏 **[cartomancy](https://codeberg.org/sailorfe/cartomancy)** (python), your terminal tarot deck
+- 🐱 **[meow](https://codeberg.org/sailorfe/meow)** (python), a markdown `cat` with [Rich](https://github.com/Textualize/rich)
+- 🐈‍⬛ **[moon queen](https://codeberg.org/sailorfe/moonqueen.nvim)** (lua), for fighting evil by moonlight
+- 🔮 **[luna](https://codeberg.org/sailorfe/luna.nvim)** (lua), moon queen's low contrast sister
+- 👻 **[perona](https://codeberg.org/sailorfe/perona.nvim)** (lua), ホロホロホロ!
